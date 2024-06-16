@@ -1,0 +1,10 @@
+---
+title: "Luiz Otávio Pala 👨🏻‍💻 🧑🏻‍🏫"
+execute: 
+  freeze: false
+---
+
+
+<img src="img/volatilidade_back.png" style="opacity: 0.3;">
+
+

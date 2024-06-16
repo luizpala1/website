@@ -1,0 +1,18 @@
+---
+title: "Informações"
+format: html
+editor: source
+---
+
+::: {style="text-align: justify;"}
+
+:::
+
+|                               |                   |                                  |                          |
+|-------------------|-----------------|---------------------|-----------------|
+|                               | **Nome**          | **Gabinete** | **E-mail** |
+| | |  | |
+| ![](luizpala.png){width="100"} | Prof. Luiz Otávio Pala| DES-UFLA, 2º andar | 📧 luizpala@ufla.br |
+| | | | |
+
+ 

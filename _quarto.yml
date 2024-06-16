@@ -1,0 +1,76 @@
+project:
+  type: website
+
+website:
+  page-navigation: true
+  title: "Website"
+  description: "Página de Luiz Pala - UFLA"
+  site-url: ""
+
+  repo-url: ""
+  repo-actions: [edit, issue]
+
+  sidebar:
+    background: "#d1dceb" 
+    logo: "img/website4.png"
+    pinned: true
+    align: center
+    tools:
+      - icon: person
+        href: http://lattes.cnpq.br/5770791208849986
+        text: "Lattes"
+      - icon: bookmark
+        href: https://des.ufla.br/
+        text: "Departamento de Estatística - UFLA"
+      - icon: mortarboard-fill
+        href: https://ufla.br/
+        text: "Universidade Federal de Lavras - UFLA"
+        
+    style: docked
+    search: true
+    collapse-level: 1
+    contents:
+      - section: "Informações"
+        contents:
+          - href: about_me.qmd
+            text: Contato
+          - href: cursos.qmd
+            text: Cursos
+          - href: formacao.qmd
+            text: Formação
+      - section: "Áreas de interesse"
+        contents:
+          - href: about_me.qmd
+            text: Contato
+      - section: "Disciplinas"
+        contents:
+          - href: cursos.qmd
+            text: Cursos
+      - section: "Publicações"
+        contents:
+          - href: artigos.qmd
+            text: Artigos
+          - href: trabalhos.qmd
+            text: Relatórios técnicos
+  page-footer:
+    right: 'Página construída com [Quarto](https://quarto.org/) e inspirada em [Çetinkaya-Rundel](https://mine-cr.com/).'
+    left: "&copy; Copyright 2024 Luiz Otávio Pala"
+    background: "#d1dceb" # Pantone Chambray Blue - Spring 2024, darkened to pass contrast checks
+
+format:
+  html:
+    theme:
+      light: [cosmo, sta199.scss]
+      dark: [cosmo, sta199.scss, dark.scss]
+    linkcolor: "#3A5883" # Pantone Chambray Blue - Spring 2024, darkened to pass contrast checks
+    toc: true
+    toc-title: "Conteúdo"
+    code-copy: true
+    code-overflow: wrap
+    mainfont: "Atkinson Hyperlegible"
+    highlight-style: a11y-dark
+
+execute:
+  freeze: auto
+
+editor: visual

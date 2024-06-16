@@ -1,0 +1,53 @@
+---
+title: "Cursos"
+format: html
+editor: visual
+---
+
+::: {style="background-color: #d1dceb; padding: 0px;"}
+## 2024/01
+:::
+
+Abaixo estão listadas as disciplinas nas quais tenho trabalhado em cada semestre na Universidade Federal de Lavras.
+
+::: columns
+::: {.column width="80%"}
+### 📝 [Organização e apresentação de dados]{.underline}
+
+-   Curso ofertado em colaboração com a Profa. Izabela Oliveira aos alunos do bacharelado em Estatística da UFLA. 
+
+-   🔗 Acesse o *website* da [GES-109](https://des-ufla.github.io/GES_109/).
+:::
+
+::: {.column width="5%"}
+<!-- empty -->
+:::
+
+::: {.column width="15%"}
+![](img/logo.png){width="80"}
+:::
+:::
+
+<!-- ===================================== -->
+
+::: columns
+::: {.column width="75%"}
+### 📝 [Estatística Experimental]{.underline}
+
+-   Curso ofertado aos alunos do bacharelado em Zootecnia da UFLA.
+
+-   🔗 Acesse o *campus virtual* da [GES-102](https://campusvirtual.ufla.br/presencial/course/view.php?id=53425).
+:::
+
+::: {.column width="10%"}
+<!-- empty -->
+:::
+
+::: {.column width="10%"}
+![](img/logo_ges102.png){width="80"}
+:::
+:::
+
+:::{style="background-color: #d1dceb; padding: 0px;"}
+## 2024/02
+:::

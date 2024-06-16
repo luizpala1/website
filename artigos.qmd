@@ -1,0 +1,48 @@
+---
+title: "Artigos"
+format: html
+editor: visual
+---
+::: {style="background-color: #d1dceb; padding: 0px;"}
+## 2024
+:::
+📒 GONCALVES, D. O.; PALA, L. O. O.; FONSECA, N. S. M.; CIRILLO, M. A. Modelos paramétricos de sobrevivência aplicados ao tempo de internação até a alta de pacientes com dengue clássica e hemorrágica da região Sudeste do Brasil. **SIGMAE**, v. 12, p. 125-130, 2024.
+
+📒 PALA, L. O. O.; SAFADI, T. Time-varying zero-adjusted Poisson distribution for modeling count time series. **Semina: Ciências exatas e tecnológicas**, v. 45, p. 1-13, 2024.
+
+::: {style="background-color: #d1dceb; padding: 0px;"}
+## 2023
+:::
+📒 PALA, L. O. O.; CARVALHO, M. M.; SAFADI, T. Analysis of Count Time Series: A Bayesian GARMA(p, q) Approach. **Austrian Journal Of Statistics**, v. 52, p. 131-151, 2023.
+
+::: {style="background-color: #d1dceb; padding: 0px;"}
+## 2022
+:::
+📒 PALA, L. O. O.; CARVALHO, M. M.; SAFADI, T. Stochastic modeling of vehicle insurance claims: an application in the south of Minas Gerais/Brazil. **Brazilian Journal of Biometrics**, v. 40, p. 256-272, 2022.
+
+📒 PALA, L. O. O.; CARVALHO, M. M.; SAFADI, T. Forecasting the number of vehicles thefts in Campinas/Brazil using a Generalized Linear Autoregressive Moving Average model. **Electronic Journal Of Applied Statistical Analysis**, v. 15, p. 1-14, 2022.
+
+📒 PALA, L. O. O.; GONCALVES, D. O.; SILVA, B. C.Modelagem da ocorrência de sinistros de veículos para o estado de Minas Gerais via inferência Bayesiana. **Revista eletrônica do departamento de ciências contábeis & departamento de atuária e métodos quantitativos**, v. 9, p. 1-10, 2022.
+
+📒 PALA, L. O. O.; CARVALHO, M. M.; SAFADI, T. Count time series with excess zeros: A Bayesian perspective using zero-adjusted distributions. **Semina: Ciências exatas e tecnológicas**, v. 43, p. 147-160, 2022.
+
+📒 GONCALVES, D. O.; SILVA, B. C.; PALA, L. O. O.; BRIGHENTI, C. R. G.Estimativas do tempo médio e custo de internação para uma pessoa se recuperar em decorrência de Dengue. **Rahis**, v. 19, p. 14-26, 2022.
+
+::: {style="background-color: #d1dceb; padding: 0px;"}
+## 2021
+:::
+📒 CARVALHO, M. M.; PALA, L. O. O.; SAFADI, T. Volatility of intraday data: Multiscale analysis ARIMA-APARCH for the Ibovespa behavior under the COVID-19 pandemic. **Semina: Ciências exatas e tecnológicas**, v. 42, p. 25-34, 2021.
+
+📒 CARVALHO, M. M.; PALA, L. O. O.; PESSANHA, G. R. G.; SAFADI, T. Asymmetric dependence of intraday frequency components in the Brazilian stock market. **SN Business & Economics**, v. 1, p. 1-18, 2021.
+
+::: {style="background-color: #d1dceb; padding: 0px;"}
+## 2020
+:::
+📒 FERREIRA, E. B.; PALA, L. O. O.; PEREIRA, R. G. F. A.; AGUIRRE, A. F. L.; ROSA, J. C. Ciência de dados na avaliação de amostras de café de qualidade extrema. **Caderno de ciências agrárias**, v. 12, p. 1-8, 2020.
+
+📒 PALA, L. O. O.; CARVALHO, M. M.; GUIMARAES, P. H. S.; SAFADI, T. Vehicle claims in the South of Minas Gerais: an approach using classification models. **Semina: Ciências exatas e tecnológicas**, v. 41, p. 79-86, 2020.
+
+::: {style="background-color: #d1dceb; padding: 0px;"}
+## 2019
+:::
+📒 PALA, L. O. O.; FERREIRA, E. B.; PETRINI, J. O crescimento do percentual de idosos na Região Sudeste: Uma aplicação via modelo linear misto. **Sigmae**, v. 08, p. 180-190, 2019.

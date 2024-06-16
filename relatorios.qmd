@@ -1,0 +1,10 @@
+---
+title: "Trabalhos e relatórios técnicos"
+format: html
+editor: visual
+---
+::: {style="background-color: #d1dceb; padding: 0px;"}
+## 2022
+:::
+
+📒[PALA, L.; SÁFADI, T.](https://fgviisr.fgv.br/publicacao/uma-abordagem-estocastica-para-precificacao-e-analise-de-indenizacoes-de-seguros) **Uma abordagem Estocástica para precificação e análise de indenizações de seguros agrícolas no Brasil**, 2022.

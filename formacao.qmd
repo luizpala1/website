@@ -1,0 +1,21 @@
+---
+title: "Formação"
+execute: 
+  freeze: false
+---
+
+
+### 🎓 [Resumo]{.underline}
+::: {style="text-align: justify;"}
+Possui graduação em Ciências Atuariais, mestrado em Estatística Aplicada e Biometria pela Universidade Federal de Alfenas (UNIFAL/MG) e doutorado em Estatística e Experimentação Agropecuária pela Universidade Federal de Lavras (UFLA/MG). Tem interesse na modelagem de seguros e risco, análise de séries temporais e inferência Bayesiana. Atualmente é professor adjunto A do Departamento de Estatística (DES) da Universidade Federal de Lavras. 
+:::
+
+
+
+### ⌛ [Ciências Atuariais]{.underline}
+::: {style="text-align: justify;"}
+A Ciência Atuarial é a área que aplica métodos matemáticos e estatísticos para a observação sistemática de eventos naturais, com o objetivo de <u>avaliar o risco de ocorrência desses eventos</u> e ajudar a formular políticas que minimizem esse risco e seu impacto financeiro em empresas e clientes
+([Morgan State University, 2024](https://www.morgan.edu/actuarial-science/prospective-students/what-is-actuarial-science)).
+:::
+
+
