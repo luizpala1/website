@@ -227,7 +227,60 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p><img src="img/volatilidade_back.png" style="opacity: 0.3;"></p>
+<img src="img/volatilidade_back.png" style="opacity: 0.3;">
+
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>
+Coding is Empowering
+</title>
+<style>
+    .background-image {
+        position: absolute;
+        top: 0;
+        right: 0;
+        width: 100%;
+        height: 100%;
+        z-index: -1;
+        opacity: 0.3;
+    }
+    .message {
+        position: absolute;
+        top: 20px; /* Ajuste a distância do topo conforme necessário */
+        right: 20px; /* Ajuste a distância da direita conforme necessário */
+        font-size: 24px;
+        color: #333;
+        white-space: nowrap;
+        overflow: hidden;
+        border-right: 2px solid;
+        animation: typing 14s steps(24) infinite, blinkCaret 0.75s step-end infinite;
+    }
+    @keyframes typing {
+        0%, 100% {
+            width: 0;
+        }
+        50% {
+            width: 18ch; /* Ajuste o número para combinar com o comprimento do texto */
+        }
+    }
+    @keyframes blinkCaret {
+        from, to {
+            border-color: transparent;
+        }
+        50% {
+            border-color: black;
+        }
+    }
+</style>
+
+
+<img src="img/volatilidade_back.png" alt="Background Image" class="background-image">
+<div class="message">
+Coding is empowering 🍀
+</div>
+
+
 
 
 
@@ -457,7 +510,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/luizpala1\.github\.io\/website\/");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
