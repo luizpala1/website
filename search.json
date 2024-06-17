@@ -99,7 +99,11 @@
     "href": "apps/zagpo.html",
     "title": "Zero-adjusted Generalized Poisson",
     "section": "",
-    "text": "📒 Documentation and usage of the Zero-adjusted Generalized Poisson distribution."
+    "text": "📒 Documentation and usage of the Zero-adjusted Generalized Poisson distribution.",
+    "crumbs": [
+      "Códigos R",
+      "ZAGPO"
+    ]
   },
   {
     "objectID": "cursos.html",
